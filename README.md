@@ -6,7 +6,7 @@
 <code>
 apt install wget -y
 </p>
-bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/a1041937392/trojan/master/svr)
+bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/a1041937392/tjan/master/svr)
 </code>
 </p>
 </p>
