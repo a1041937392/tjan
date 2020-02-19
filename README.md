@@ -13,7 +13,7 @@ bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/a10419
 ------------------------------------------------------------------------------------------------------
 </p>
 支持的系统：
-- debian8以上系统
+- debian9以上系统
 
 
 
