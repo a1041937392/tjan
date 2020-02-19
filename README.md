@@ -4,10 +4,8 @@
 ------------------------------------------------------------------------------------------------------
 <h1>Trojan安装顺序：</h1>
 <code>
-       1
 apt install wget -y
 </p>
-       2
 bash <(wget --no-check-certificate -qO- https://raw.githubusercontent.com/pzwsquare/trojan/master/svr)
 </code>
 </p>
