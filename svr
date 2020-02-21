@@ -233,7 +233,7 @@ server {
     #}
 }
 EOF
-  wget https://raw.githubusercontent.com/a1041937392/trojan/master/web.zip
+  wget https://raw.githubusercontent.com/a1041937392/tjan/master/web.zip
     unzip web.zip
   rm -rf /usr/share/nginx/html/*
   mv ./index.html /usr/share/nginx/html/
